@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dynamic Form](https://github.com/001sudhanshu001/DynamicForm.git)
 
-- 🌱 I’m currently learning **Microservices using Spring Boot and FrontEnd using React**
+- 🌱 I’m currently learning **Microservices using Spring Boot and Frontend using React**
 
 - 💬 Ask me about **Spring Boot**
 
