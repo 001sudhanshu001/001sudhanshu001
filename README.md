@@ -1,5 +1,6 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](mydevland.vercel.app)
 <h1 align="center">Hi 👋, I'm Sudhanshu Arya</h1>
-<h3 align="center">A passionate Backend Java developer from India</h3>
+<h3 align="center">A Backend Java developer from India</h3>
 
 ## About Me
 👋 Hi there! I’m a Java Developer passionate about building scalable and efficient applications. My primary focus is on Spring Boot, and I have hands-on experience with AWS cloud services.
@@ -11,7 +12,6 @@
 I love tackling new challenges. Feel free to check out my repositories and connect with me!
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=001sudhanshu001&label=Profile%20views&color=0e75b6&style=flat" alt="001sudhanshu001" /> </p>
 
 - 🔭 I’m currently working on [Dynamic Form](https://github.com/001sudhanshu001/DynamicForm.git)
 
