@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](mydevland.vercel.app)
 <h1 align="center">Hi 👋, I'm Sudhanshu Arya</h1>
-<h3 align="center">A Backend Java developer from India</h3>
+<h3 align="center">A Backend Java developer</h3>
 
 ## About Me
 👋 Hi there! I’m a Java Developer passionate about building scalable and efficient applications. My primary focus is on Spring Boot, and I have hands-on experience with AWS cloud services.
@@ -31,7 +31,7 @@ I love tackling new challenges. Feel free to check out my repositories and conne
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   
-<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></code> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <code> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></code> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <code> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer">
 <code> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></code> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
